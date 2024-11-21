@@ -65,5 +65,6 @@ st.markdown("""
 # Team Section (Optional)
 st.markdown("""
 ## Team
-- **Developer**: Dausen Mason, Tripp Davies, Adam Schick
+- **Developers**: Dausen Mason, Tripp Davies, Adam Schick
+- **CyberSecurity Contributors**: Kai NeSmith, TJ Trueblood
 """)
