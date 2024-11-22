@@ -7,6 +7,10 @@ st.set_page_config(page_title="Fee Calculator Project Overview", layout="wide")
 st.title("Jordan & Skala Fee Calculator Project")
 st.subheader("An innovative tool for efficient fee calculations.")
 
+video_url = "https://youtu.be/5EumIJs18Qw"
+st.video(video_url)
+
+
 # Introduction Section
 st.markdown("""
 ## Project Description
